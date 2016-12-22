@@ -1,0 +1,20 @@
+# humanstxt.org
+
+# Project
+
+    Site Name:      Trevor Demille
+    Site URL:       http://trevordemille.com
+    Created:        11/04/2016
+    Standards:      HTML5, CSS3
+    Web Developer:  Ty-Lucas Kelley
+
+# Author
+
+    Name:       Ty-Lucas Kelley
+    Site:       https://tylucaskelley.com
+    Twitter:    @tylucaskelley
+
+# Thanks
+
+    To everyone who enjoys the site!
+
